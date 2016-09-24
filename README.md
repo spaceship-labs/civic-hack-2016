@@ -21,3 +21,4 @@ inovacion/disrupcion	funcionalidad	usabilidad	originalidad	beneficio a la comuni
 
 ## Equipos
 
+{Cesar, Martin, German}
