@@ -7,3 +7,5 @@ Luis Rene Gutierrez
 Karla Gabriela Roblero
 
 Equipo KAN  -   https://github.com/marcosamo/civicHack
+
+{Cesar, Martin, German, Jesvan, Damaris}
