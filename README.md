@@ -1,8 +1,3 @@
-Equipo SD
+- Equipo SD
 
-Rafael Lagunas Guitrón
-Alejandro Bores Rivera
-Diego Soto Borja Almeida
-Luis Rene Gutierrez
-Karla Gabriela Roblero
-
+https://github.com/rafastaria/Hackaton2016SD
