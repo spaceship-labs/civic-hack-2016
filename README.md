@@ -19,5 +19,6 @@ https://codeandomexico.org/
 ## Criterios de evaluacion
 inovacion/disrupcion	funcionalidad	usabilidad	originalidad	beneficio a la comunidad
 
-## Equipos
+## Equipo
+UT cancun
 
