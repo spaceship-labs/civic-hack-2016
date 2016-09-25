@@ -31,3 +31,5 @@ Equipo KAN  -   https://github.com/marcosamo/civicHack
 {Cesar, Martin, German, Jesvan, Damaris}
 
 Equipo SD - https://github.com/rafastaria/Hackaton2016SD
+
+Equipo 8-Bits >> https://gitlab.com/yoniihdc/civichack2016
