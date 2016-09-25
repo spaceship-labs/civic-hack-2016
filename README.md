@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # civick-hack-2016
 
 ## Datasets
@@ -33,3 +34,8 @@ Karla Gabriela Roblero
 Equipo KAN  -   https://github.com/marcosamo/civicHack
 
 {Cesar, Martin, German, Jesvan, Damaris}
+=======
+- Equipo SD
+
+https://github.com/rafastaria/Hackaton2016SD
+>>>>>>> 7904ae8892407e1bf965b704d875709405be0fc0
