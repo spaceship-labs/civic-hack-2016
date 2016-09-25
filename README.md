@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # civick-hack-2016
 
 ## Datasets
@@ -33,3 +32,7 @@ Equipo SD - https://github.com/rafastaria/Hackaton2016SD
 Equipo 8 bit - https://gitlab.com/yoniihdc/civichack2016
 
 3lig3los - https://github.com/chikipollo/3lige3los
+
+Alpha - https://github.com/squalo84/Alpha
+
+Caza Aviadores - 
