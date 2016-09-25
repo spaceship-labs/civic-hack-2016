@@ -21,13 +21,15 @@ https://codeandomexico.org/
 inovacion/disrupcion	funcionalidad	usabilidad	originalidad	beneficio a la comunidad
 
 ## Equipo
-UT cancun
 
-Equipo SD
-
+UT cancun - 
 
 Equipo KAN  -   https://github.com/marcosamo/civicHack
 
-{Cesar, Martin, German, Jesvan, Damaris}
+FB bot - https://github.com/cesaringo/fbbot
 
 Equipo SD - https://github.com/rafastaria/Hackaton2016SD
+
+Equipo 8 bit - https://gitlab.com/yoniihdc/civichack2016
+
+3lig3los - https://github.com/chikipollo/3lige3los
